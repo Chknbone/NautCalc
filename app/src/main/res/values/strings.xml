@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NautCalc</string>
+
+    <string name="enter_distance">Enter distance</string>
+
+    <string-array name="list_units_of_measure">
+        <item>Statute Miles</item>
+        <item>Kilometers</item>
+        <item>Nautical Miles</item>
+    </string-array>
+</resources>
